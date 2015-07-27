@@ -1,0 +1,6 @@
+read x;
+read y;
+read z;
+test $x -eq $y;
+echo $?
+
